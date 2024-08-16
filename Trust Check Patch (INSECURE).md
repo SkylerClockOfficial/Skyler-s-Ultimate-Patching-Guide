@@ -9,10 +9,14 @@ Before you do this please know that when you patch trust check your basically ma
 4. Download any client from any archiving source Like [The Roblonium Archive](https://archive.roblonium.com/)
 5. Extract your client
 6. Drag RobloxPlayerBeta.exe or RobloxApp.exe onto x32dbg
+
 ![It will show up like this](https://github.com/user-attachments/assets/b474da00-83e6-416d-b448-d8b7866f7e91)
+
 7. Go to the "Symbols" tab and double click robloxplayerbeta.exe or robloxapp.exe
 8. Right click ----> Search for ----> Current Module ----> String Refrences
-![Example](https://github.com/user-attachments/assets/b43dacee-801b-403a-aee6-fed8b777db3b
+
+![Example of it](https://github.com/user-attachments/assets/b43dacee-801b-403a-aee6-fed8b777db3b
+
 9. Wait for it to complete searching for string refrences
 10. Search at the bottom "Trust Check Failed" and double click the first result that comes up
 11. Scroll above and when you see a jne click on it and press space then change "jne" to "jmp" and then hit Ok and then cancel
