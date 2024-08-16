@@ -14,9 +14,6 @@ Before you do this please know that when you patch trust check your basically ma
 
 7. Go to the "Symbols" tab and double click robloxplayerbeta.exe or robloxapp.exe
 8. Right click ----> Search for ----> Current Module ----> String Refrences
-
-![Example of it](https://github.com/user-attachments/assets/b43dacee-801b-403a-aee6-fed8b777db3b
-
 9. Wait for it to complete searching for string refrences
 10. Search at the bottom "Trust Check Failed" and double click the first result that comes up
 11. Scroll above and when you see a jne click on it and press space then change "jne" to "jmp" and then hit Ok and then cancel
