@@ -1,4 +1,7 @@
-# ioEnabled
+# WARNING
+DO YOU WANT A RAT? ENABLE IOENABLED NOW!!!
+
+# ioEnabled Patch
 
 1.  Open x32dbg
 2.  Open your client
